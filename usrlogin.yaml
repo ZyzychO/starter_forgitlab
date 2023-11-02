@@ -2,7 +2,7 @@ get:
   tags:
     - user
   summary: Logs user into the system
-  description: qweasdasdasd
+  description: Test sparkle
   operationId: loginUser
   parameters:
     - name: username
