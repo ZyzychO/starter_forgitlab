@@ -2,7 +2,7 @@ get:
   tags:
     - user
   summary: Logs user into the system
-  description: ''
+  description: 'asdasdasd'
   operationId: loginUser
   parameters:
     - name: username
